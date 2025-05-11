@@ -22,3 +22,8 @@ console.log(b);
 //1 => true
 // 0 => false
 // 'ramzan' => true
+
+console.log(1 + "2");
+console.log("1" + 2);
+console.log(1 + 2 + "3");
+console.log(1 + "2" + "3");
